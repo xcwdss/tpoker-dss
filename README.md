@@ -24,12 +24,12 @@
 <br> 
 大厅（写的比较简单）
 
-![Image 大厅](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/%E5%A4%A7%E5%8E%85.PNG)
+![Image 大厅](https://github.com/xcwdss/projectPic/Tpoker/%E5%A4%A7%E5%8E%85.PNG)
 <br><br> 
 简单的注册，登录
-![image 注册](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/%E6%B3%A8%E5%86%8C.PNG)
+![image 注册](https://github.com/xcwdss/projectPic/Tpoker/%E6%B3%A8%E5%86%8C.PNG)
 <br>
-![image 登录](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/%E7%99%BB%E5%BD%95.PNG)
+![image 登录](https://github.com/xcwdss/projectPic/Tpoker/%E7%99%BB%E5%BD%95.PNG)
 <br><br> 
 
 进入游戏房间
@@ -37,17 +37,17 @@
 
 <br><br> 
 右下角的在线聊天室
-![image 在线聊天室](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4.PNG)
+![image 在线聊天室](https://github.com/xcwdss/projectPic/Tpoker/%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4.PNG)
 <br><br> 
 游戏开始
-![image 游戏开始](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%A7%8B.PNG)
+![image 游戏开始](https://github.com/xcwdss/projectPic/Tpoker/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%A7%8B.PNG)
 <br><br> 
 可以实时显示其他玩家情况（玩家名，筹码数，本局押注，上一步动作，正在行动标志（蓝手标志））
-![image 玩家情况](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/玩家情况.PNG)
+![image 玩家情况](https://github.com/xcwdss/projectPic/Tpoker/玩家情况.PNG)
 
 <br><br> 
 flop
-![image flop](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/flop.PNG)
+![image flop](https://github.com/xcwdss/projectPic/Tpoker/flop.PNG)
 
 <br><br> 
 turn
