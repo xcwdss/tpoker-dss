@@ -24,47 +24,47 @@
 <br> 
 大厅（写的比较简单）
 
-![Image 大厅](https://github.com/xcwdss/projectPic/Tpoker/%E5%A4%A7%E5%8E%85.PNG)
+![Image 大厅](https://github.com/xcwdss/projectPic/blob/master/Tpoker/大厅.PNG)
 <br><br> 
 简单的注册，登录
-![image 注册](https://github.com/xcwdss/projectPic/Tpoker/%E6%B3%A8%E5%86%8C.PNG)
+![image 注册](https://github.com/xcwdss/projectPic/blob/master/Tpoker/注册.PNG)
 <br>
-![image 登录](https://github.com/xcwdss/projectPic/Tpoker/%E7%99%BB%E5%BD%95.PNG)
+![image 登录](https://github.com/xcwdss/projectPic/blob/master/Tpoker/登录.PNG)
 <br><br> 
 
 进入游戏房间
-![image 房间](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/%E6%88%BF%E9%97%B4.PNG)
+![image 房间](https://github.com/xcwdss/projectPic/blob/master/Tpoker/房间.PNG)
 
 <br><br> 
 右下角的在线聊天室
-![image 在线聊天室](https://github.com/xcwdss/projectPic/Tpoker/%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4.PNG)
+![image 在线聊天室](https://github.com/xcwdss/projectPic/blob/master/Tpoker/在线聊天室.PNG)
 <br><br> 
 游戏开始
-![image 游戏开始](https://github.com/xcwdss/projectPic/Tpoker/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%A7%8B.PNG)
+![image 游戏开始](https://github.com/xcwdss/projectPic/blob/master/Tpoker/游戏开始.PNG)
 <br><br> 
 可以实时显示其他玩家情况（玩家名，筹码数，本局押注，上一步动作，正在行动标志（蓝手标志））
-![image 玩家情况](https://github.com/xcwdss/projectPic/Tpoker/玩家情况.PNG)
+![image 玩家情况](https://github.com/xcwdss/projectPic/blob/master/Tpoker/玩家情况.PNG)
 
 <br><br> 
 flop
-![image flop](https://github.com/xcwdss/projectPic/Tpoker/flop.PNG)
+![image flop](https://github.com/xcwdss/projectPic/blob/master/Tpoker/flop.PNG)
 
 <br><br> 
 turn
-![image turn](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/turn.PNG)
+![image turn](https://github.com/xcwdss/projectPic/blob/master/Tpoker/turn.PNG)
 
 <br><br> 
 river
-![image river](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/river.PNG)
+![image river](https://github.com/xcwdss/projectPic/blob/master/Tpoker/river.PNG)
 
 <br><br> 
 胜利后的界面（即时完成筹码清算）
-![image win](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/win.PNG)
+![image win](https://github.com/xcwdss/projectPic/blob/master/Tpoker/win.PNG)
 
 
 <br><br> 
 失败后的界面（即时完成筹码清算）
-![image lose](https://github.com/ldljlzl/projectPic/blob/master/Tpoker/lose.PNG)
+![image lose](https://github.com/xcwdss/projectPic/blob/master/Tpoker/lose.PNG)
 
 
 
